@@ -3,7 +3,7 @@ void  HeartRateClip_setup() {
 
 }
 
-void loop() {
+void HeartRateClip() {
 
 
 }
