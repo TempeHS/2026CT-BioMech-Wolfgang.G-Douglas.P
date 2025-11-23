@@ -2,8 +2,8 @@
 
 # V-HR Monitor
 
-This is a controller designed to help people with muscular distrophy as they struggle to use normal controllers due to them being too sensitive with bad buttons and so need speacial ones made for them.
-our pateint 
+this is a heart rate monitor designed to help volley ball players accurately assess their heart rate while warning them if it enters a dangerous level, it will do so with a series of light flashes and buzzes aswell as text message to the coaches phone.
+the monitor will be stury enough to work during play without damaging itself or discomforting the patient, while working effectively enough to be considered medical grade.
 
 ## Devolopment team
 
