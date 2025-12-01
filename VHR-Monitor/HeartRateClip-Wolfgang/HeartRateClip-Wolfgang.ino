@@ -1,8 +1,3 @@
-
- 
-
-
-
 void  HeartRateClip_setup() {
   
 
