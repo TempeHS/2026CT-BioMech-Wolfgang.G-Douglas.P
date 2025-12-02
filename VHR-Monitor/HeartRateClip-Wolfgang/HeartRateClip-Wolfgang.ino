@@ -1,7 +1,7 @@
-#include <DFRobot_Heartrate.h>
+#include <PulseSensor Playground.h>
 
 const int HR_PIN = 6;
-DFRobot_Heartrate heartRate(HR_PIN);
+PulseSensor Playground heartRate(HR_PIN);
 
 void setup() {
   Serial.begin(9600);
