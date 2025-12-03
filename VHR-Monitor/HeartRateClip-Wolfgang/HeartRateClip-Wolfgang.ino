@@ -26,7 +26,7 @@ void loop() {
   int BPM = heartRate.getBeatsPerMinute();
   bool sawBeat = heartRate.sawStartOfBeat();
 
-  if (BPM >= 0) {
+  if (BPM > 0) {
     Serial.print("  >>> Beat! BPM: ");
     Serial.print(BPM);
 
